@@ -7,6 +7,8 @@ import java.util.Map;
 
 public class Student {
 
+    // Changes in Develop branch
+
     private String FIO;
     private Group group;
     private StudentProgress studentProgress;

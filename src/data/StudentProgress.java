@@ -4,6 +4,8 @@ import java.util.HashMap;
 
 public class StudentProgress {
 
+    // Changes for Develop branch
+
     private HashMap<Discipline, Integer> marks;
 
     public HashMap<Discipline, Integer> getMarks() {
