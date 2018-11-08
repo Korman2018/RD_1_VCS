@@ -7,4 +7,6 @@ public class Feature_1 {
 
     // Some changes for Feature 1
 
+    // Another changes for Feature 1
+
 }
