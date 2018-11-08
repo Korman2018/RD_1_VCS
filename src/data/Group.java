@@ -2,6 +2,9 @@ package data;
 
 public class Group {
 
+    // Some changes in Develop branch
+
+
     private String groupCode;
 
     public Group(String groupCode) {
