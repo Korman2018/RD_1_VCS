@@ -2,6 +2,7 @@ package data;
 
 public class Discipline {
 
+    // Commit for amend commit
 
     // Some changes in the branch Master in Idea
 
