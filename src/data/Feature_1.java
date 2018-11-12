@@ -2,6 +2,9 @@ package data;
 
 public class Feature_1 {
 
+    // Some changes in Git
+    // BU-BU-BU
+
     // Some changes in Idea
     // LA-LA-LA
 
